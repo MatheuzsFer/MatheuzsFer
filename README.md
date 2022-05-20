@@ -1,7 +1,7 @@
 ## Olá 👋
 
 - 💻 Dev Front-end
-- 📚 Estudando JavaScript, Angular
+- 📚 Estudando JavaScript
 
 <div align="">
   <a href="https://github.com/MatheuzsFer">
