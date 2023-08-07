@@ -26,13 +26,6 @@ Vue.js - É o tipo de estrutura de interface do usuário da Web que combina Reac
 •     Integração de terceiros
 •     Alto desempenho
 
-jQuery - Esta estrutura de interface do usuário da Web é uma estrutura de front-end mais antiga. Mais de 41 milhões de sites o usam, e sua biblioteca multiplataforma facilita o script HTML do lado do cliente.
-
-•     Simplicidade
-•     Compatibilidade do navegador
-•     Habilitação móvel
-•     Vasta comunidade
-
   
  <div>
   <a href="https://github.com/MatheuzsFer">
