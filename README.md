@@ -5,9 +5,32 @@ Me chamo Matheus sou programador. adoro desenvolvimento Web, games e estou estud
 Linguagens preferidas 
 
 Python - Foi a minha porta de entrada na programação onde aprendi logica de programação e POO
+
 Javascript - A linguaguem que mais me encanta por sua versatilidade a que atualmente estou estudando afinco
+
 Ruby/C# -  Sempre fui apaixonado por games, e tinha muita curiosidade em como era fazer seu proprio, então comecei a desenvolver pequenos games de plataforma usando unity/unreal em breve posto minha evolução no mundo do game development
 
+Frameworks que pretendo estudar/aprender
+
+Angular - É uma plataforma de desenvolvimento baseada em typescript com uma coleção diversificada de bibliotecas bem integradas e permite o desenvolvimento de aplicativos escaláveis, tornando-se um excelente framework de UI da Web
+•     Grande flexibilidade
+•     Sincronização em tempo real
+•     Personalização
+•     Alto desempenho
+
+Vue.js - É o tipo de estrutura de interface do usuário da Web que combina React e Angular . fornece mineração de dados reativa bidirecional sem a necessidade de bibliotecas adicionais. É um framework simples que supera os desafios do framework angular, e suas APIs ajudam a resolver tarefas de grande escala.
+
+•     DOM Virtual 
+•     Fácil de aprender
+•     Integração de terceiros
+•     Alto desempenho
+
+jQuery - Esta estrutura de interface do usuário da Web é uma estrutura de front-end mais antiga. Mais de 41 milhões de sites o usam, e sua biblioteca multiplataforma facilita o script HTML do lado do cliente.
+
+•     Simplicidade
+•     Compatibilidade do navegador
+•     Habilitação móvel
+•     Vasta comunidade
 
   
  <div>
