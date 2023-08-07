@@ -8,11 +8,6 @@ Python - Foi a minha porta de entrada na programação onde aprendi logica de pr
 Javascript - A linguaguem que mais me encanta por sua versatilidade a que atualmente estou estudando afinco
 Ruby/C# -  Sempre fui apaixonado por games, e tinha muita curiosidade em como era fazer seu proprio, então comecei a desenvolver pequenos games de plataforma usando unity/unreal em breve posto minha evolução no mundo do game development
 
-_
-Visualizado por
-Matheus :: Visitor's Count
-
-pessoas ou bots.
 
   
  <div>
@@ -32,8 +27,8 @@ pessoas ou bots.
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="Rafa-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+  <img align="center" alt="Rafa-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
+  <img align="center" alt="Rafa-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img align="center" alt="Rafa-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
 </div>
   
