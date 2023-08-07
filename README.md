@@ -2,7 +2,7 @@
 
 My name is Matheus, a programming student, I love Web, Games and Mobile development. I have a technical course in informatics where I learned the love for programming, I am an undergraduate student in ADS (Systems Analysis and Development). I study English and programming in courses on the internet and practicing with personal projects (not yet published on the platform).
 
-preferred languages
+## Preferred languages
 
 Python - It was my entry point into programming where I learned programming logic and OOP
 
@@ -10,7 +10,7 @@ Javascript - The language that enchants me the most for its versatility, which I
 
 Ruby/C# - I've always been passionate about games, and I was very curious about what it was like to make your own, so I started developing small platform games using unity/unreal. Soon I'll post my evolution in the world of game development
 
-Frameworks I intend to study/learn
+## Frameworks I intend to study/learn
 
 Angular - It is a typescript-based development platform with a diverse collection of well-integrated libraries and allows for scalable application development, making it an excellent web UI framework
 
