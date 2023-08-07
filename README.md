@@ -13,12 +13,13 @@ Ruby/C# -  Sempre fui apaixonado por games, e tinha muita curiosidade em como er
 Frameworks que pretendo estudar/aprender
 
 Angular - É uma plataforma de desenvolvimento baseada em typescript com uma coleção diversificada de bibliotecas bem integradas e permite o desenvolvimento de aplicativos escaláveis, tornando-se um excelente framework de UI da Web
+
 •     Grande flexibilidade
 •     Sincronização em tempo real
 •     Personalização
 •     Alto desempenho
 
-Vue.js - É o tipo de estrutura de interface do usuário da Web que combina React e Angular . fornece mineração de dados reativa bidirecional sem a necessidade de bibliotecas adicionais. É um framework simples que supera os desafios do framework angular, e suas APIs ajudam a resolver tarefas de grande escala.
+Vue.js - É o tipo de estrutura de interface do usuário da Web que combina React e Angular. É um framework simples que supera os desafios do framework angular, e suas APIs ajudam a resolver tarefas de grande escala.
 
 •     DOM Virtual 
 •     Fácil de aprender
