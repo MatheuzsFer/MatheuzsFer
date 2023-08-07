@@ -1,4 +1,4 @@
-## Olá 👋
+## HI 👋
 
 My name is Matheus, a programming student, I love Web, Games and Mobile development. I have a technical course in informatics where I learned the love for programming, I am an undergraduate student in ADS (Systems Analysis and Development). I study English and programming in courses on the internet and practicing with personal projects (not yet published on the platform).
 
