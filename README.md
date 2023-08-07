@@ -1,30 +1,24 @@
 ## Olá 👋
 
-Me chamo Matheus estudante de programação, adoro desenvolvimento Web, Games e Mobile. Tenho curso tecnico em informática onde conheci o amor pela programação, sou aluno de graduação em ADS (Análise e Desenvolvimento de Sistemas). Estudo ingles e programação em cursos na internet e praticando com projetos pessoais (ainda não publicados na platafotma).
+My name is Matheus, a programming student, I love Web, Games and Mobile development. I have a technical course in informatics where I learned the love for programming, I am an undergraduate student in ADS (Systems Analysis and Development). I study English and programming in courses on the internet and practicing with personal projects (not yet published on the platform).
 
-Linguagens preferidas 
+preferred languages
 
-Python - Foi a minha porta de entrada na programação onde aprendi logica de programação e POO
+Python - It was my entry point into programming where I learned programming logic and OOP
 
-Javascript - A linguaguem que mais me encanta por sua versatilidade a que atualmente estou estudando afinco
+Javascript - The language that enchants me the most for its versatility, which I am currently studying diligently
 
-Ruby/C# -  Sempre fui apaixonado por games, e tinha muita curiosidade em como era fazer seu proprio, então comecei a desenvolver pequenos games de plataforma usando unity/unreal em breve posto minha evolução no mundo do game development
+Ruby/C# - I've always been passionate about games, and I was very curious about what it was like to make your own, so I started developing small platform games using unity/unreal. Soon I'll post my evolution in the world of game development
 
-Frameworks que pretendo estudar/aprender
+Frameworks I intend to study/learn
 
-Angular - É uma plataforma de desenvolvimento baseada em typescript com uma coleção diversificada de bibliotecas bem integradas e permite o desenvolvimento de aplicativos escaláveis, tornando-se um excelente framework de UI da Web
+Angular - It is a typescript-based development platform with a diverse collection of well-integrated libraries and allows for scalable application development, making it an excellent web UI framework
 
-•     Grande flexibilidade
-•     Sincronização em tempo real
-•     Personalização
-•     Alto desempenho
+• Great flexibility • Real-time synchronization • Customization • High performance
 
-Vue.js - É o tipo de estrutura de interface do usuário da Web que combina React e Angular. É um framework simples que supera os desafios do framework angular, e suas APIs ajudam a resolver tarefas de grande escala.
+Vue.js - It's the kind of web UI framework that combines React and Angular. It's a simple framework that overcomes the challenges of the angular framework, and its APIs help solve large-scale tasks.
 
-•     DOM Virtual 
-•     Fácil de aprender
-•     Integração de terceiros
-•     Alto desempenho
+• Virtual DOM • Easy to learn • 3rd party integration • High performance
 
   
  <div>
