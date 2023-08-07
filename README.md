@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Me chamo Matheus sou programador, adoro desenvolvimento Web, games e estou estudando sobre mobile. Tenho curso tecnico na area de informatica onde conheci o amor pela programação, sou aluno de graduação em ADS (Análise e Desenvolvimento de Sistemas) e estudo programação em curso na internet e praticando com projetos pessoais.
+Me chamo Matheus estudante de programação, adoro desenvolvimento Web, games e estou estudando sobre mobile. Tenho curso tecnico na area de informatica onde conheci o amor pela programação, sou aluno de graduação em ADS (Análise e Desenvolvimento de Sistemas) e estudo programação em cursos na internet e praticando com projetos pessoais (ainda não publicados na platafotma).
 
 Linguagens preferidas 
 
