@@ -8,7 +8,7 @@ Python - It was my entry point into programming where I learned programming logi
 
 Javascript - The language that enchants me the most for its versatility, which I am currently studying diligently
 
-Ruby/C# - I've always been passionate about games, and I was very curious about what it was like to make your own, so I started developing small platform games using unity/unreal. Soon I'll post my evolution in the world of game development
+Java/C# - I've always been passionate about games, and I was very curious about what it was like to make your own, so I started developing small platform games using unity/unreal. Soon I'll post my evolution in the world of game development
 
 ## Frameworks I intend to study/learn
 
@@ -36,7 +36,6 @@ Vue.js - It's the kind of web UI framework that combines React and Angular. It's
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="Rafa-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
   <img align="center" alt="Rafa-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="Rafa-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
 </div>
